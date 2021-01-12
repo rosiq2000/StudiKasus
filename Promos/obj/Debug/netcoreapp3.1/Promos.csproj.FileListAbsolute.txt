@@ -1,0 +1,7 @@
+D:\TUGAS\Semester 3\Pemrograman Lanjut\UAS\Promos\Promos\obj\Debug\netcoreapp3.1\Promos.csprojAssemblyReference.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\UAS\Promos\Promos\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\UAS\Promos\Promos\obj\Debug\netcoreapp3.1\Penawaran.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\UAS\Promos\Promos\obj\Debug\netcoreapp3.1\PilihVoucher.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\UAS\Promos\Promos\obj\Debug\netcoreapp3.1\App.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\UAS\Promos\Promos\obj\Debug\netcoreapp3.1\Promos_MarkupCompile.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\UAS\Promos\Promos\obj\Debug\netcoreapp3.1\Promos_MarkupCompile.lref
