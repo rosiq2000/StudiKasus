@@ -1,4 +1,4 @@
-# StudiKasus
+# StudiKasus M. Rosiq Akbar Syach 19.11.2756
 Aplikasi Promos keranjang/kasir sederhana yang juga merupakan modifikasi aplikasi di repo sebelumnya yang juga merupakan bahan untuk UTS saya, dan sekarang memperbaiki dengan menambahkan beberapa fitur baru
 
 # Kegunaan
